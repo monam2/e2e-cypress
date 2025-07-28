@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import ProductList from '@/components/product-list/ProductList';
 import ProductHeader from '@/components/ProductHeader';
 
